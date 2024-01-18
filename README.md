@@ -1,6 +1,6 @@
 # Introduction:
 
-- I wan to learn something new and challenging. So Today I decided to learn rust. I am doing it just for fun. I am dedicated 30-60 daily playing around with the language. Now why I choose rust? I do not know. I am learning it for fun.
+- I decided to learn something new and challenging today. So I am learning rust. I am doing it just for fun. I am dedicated 30-60 minutes daily playing around with the language. Now why I choose rust? I do not know. Rust simply fascinating me.
 
 ## Day 1 [01/17/24] - geting to know rust
 
@@ -8,11 +8,12 @@
 
 - Installing rust
 - getting familiar with the rust eco system
-- Writing my first program using
+- Writing my first program
+- Using cargo to write my first Rust application
 
 ### Remarks:
 
-- The lesarning today focuses on reading a litle bit about rust, installing rust on a mac, setup vscode, and wrote my first rust program.
+- The learning today focuses on reading a litle bit about rust, installing rust on a mac, setup vscode, and wrote my first rust program.
 
 #### References:
 
